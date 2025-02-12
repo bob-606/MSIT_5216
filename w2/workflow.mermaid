@@ -1,0 +1,8 @@
+graph LR
+A[Source Code] --> B(Lexer/Parser);
+B --> C{Desugarer};
+C --> D[Interpreter];
+C --> E[JIT Compiler];
+D --> F(Execution Engine);
+E --> F;
+F --> G[Output];
