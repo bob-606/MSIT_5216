@@ -5,8 +5,8 @@ Constructing lambda functions for modular code.
 A librarian team was developing a library management system using a functional programming language. The system needed to manage the book inventory, handle user checkouts, and calculate overdue fees. They had to track various book categories and user interactions, while making sure the overdue fee calculations were modular and adaptable to different rules. 
 
 ### Based on the provided scenario, complete your assignment activity by referring to the following tasks:  
-Derive lambda functions to calculate overdue fees based on book categories and user-specific rules.  
-Integrate these functions into the system and demonstrate their application with examples. 
+1. Derive lambda functions to calculate overdue fees based on book categories and user-specific rules.  
+2. Integrate these functions into the system and demonstrate their application with examples. 
 
 ### Submission Instructions 
 Read the rubric on how your assignment will be graded.   
